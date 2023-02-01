@@ -42,11 +42,11 @@ gdown "https://drive.google.com/uc?id=1AVDY5a13cGdTd_0Wj1p93_xiFFEBcxIN&confirm=
 ### RESULTS
 
 #### Fire Detection 
-![](./figure/figure1.png)
+![](./figure1.png)
 
 #### Fire Detection
 
-![](./figure/figure3.png)
+![](./figure3.png)
 
 ### Watch the Complete Step by Step Explanation
 
