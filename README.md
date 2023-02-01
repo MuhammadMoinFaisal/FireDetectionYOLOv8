@@ -20,6 +20,7 @@ pip install -e '.[dev]'
 - Setting the Directory.
 ```
 cd ultralytics/yolo/v8/detect
+```
 
 
 - Downloading a Weights from the Google Drive
